@@ -7,4 +7,4 @@ Required dependencies are mentioned in *requirements.txt*.
 
 
 
-[![Image-Classifier-webapp](http://img.youtube.com/vi/https://www.youtube.com/watch?v=JNpuCmN85PQ/0.jpg)](http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=JNpuCmN85PQ)
+[![Image-Classifier-webapp](http://img.youtube.com/vi/https://youtu.be/JNpuCmN85PQ/0.jpg)](http://www.youtube.com/watch?v=https://https://youtu.be/JNpuCmN85PQ)
