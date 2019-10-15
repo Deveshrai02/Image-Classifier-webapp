@@ -6,5 +6,8 @@ Required dependencies are mentioned in *requirements.txt*.
 
 
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=JNpuCmN85PQ
+" target="_blank"><img src="http://img.youtube.com/vi/JNpuCmN85PQ/0.jpg" 
+alt="Image-Classifier-webapp" width="240" height="180" border="10" /></a>
 
-[![Image-Classifier-webapp](http://img.youtube.com/vi/https://youtu.be/JNpuCmN85PQ/0.jpg)](http://www.youtube.com/watch?v=https://https://youtu.be/JNpuCmN85PQ)
+
