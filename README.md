@@ -3,6 +3,8 @@ This is a image classifier webapp build upon python's web development framework 
 
 Required dependencies are mentioned in *requirements.txt*.
 
+Below is the link for working video of the web-app
+
 
 
 
