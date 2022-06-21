@@ -17,7 +17,7 @@ Keras==2.2.5
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 MarkupSafe==1.1.1
-numpy==1.17.1
+numpy==1.22.0
 oauthlib==2.1.0
 pathlib2==2.3.3
 pyasn1==0.4.5
